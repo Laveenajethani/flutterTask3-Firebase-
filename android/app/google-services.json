@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844167424792",
+    "firebase_url": "https://fir-task-c6a84.firebaseio.com",
+    "project_id": "fir-task-c6a84",
+    "storage_bucket": "fir-task-c6a84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844167424792:android:41848bae7a7c81dbf60c6d",
+        "android_client_info": {
+          "package_name": "com.laveena.api_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844167424792-326db5a64edpe10co0af9h2cadnnc84n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKKsPbHoaaUVJX6EWyYvsDGs8RZvIPjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844167424792-326db5a64edpe10co0af9h2cadnnc84n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
